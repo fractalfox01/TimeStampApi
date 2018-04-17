@@ -1,0 +1,32 @@
+{
+  "name": "timestampapi",
+  "version": "1.0.0",
+  "description": "A Simple TimeStamp API Microservice.",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log(\"This Test Is Just A Console Print To STDOUT - more testing may be required :)\");",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fractalfox01/TimeStampApi.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Nodejs",
+    "API",
+    "Microservice",
+    "Expressjs",
+    "Mongodb"
+  ],
+  "author": "Tommy V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fractalfox01/TimeStampApi/issues"
+  },
+  "homepage": "https://github.com/fractalfox01/TimeStampApi#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.6"
+  }
+}
