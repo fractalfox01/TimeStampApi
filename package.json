@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "console.log(\"This Test Is Just A Console Print To STDOUT - more testing may be required :)\");",
-    "start": "node server.js"
+    "start": "node server.js 8420"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,8 @@
     "url": "https://github.com/fractalfox01/TimeStampApi/issues"
   },
   "homepage": "https://github.com/fractalfox01/TimeStampApi#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.6"
+  }
 }
