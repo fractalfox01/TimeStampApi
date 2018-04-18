@@ -4,7 +4,7 @@
   "description": "A Simple TimeStamp API Microservice.",
   "main": "server.js",
   "scripts": {
-    "test": "console.log(\"This Test Is Just A Console Print To STDOUT - more testing may be required :)\");",
+    "test": echo "Does This need any tests?",
     "start": "node server.js 8420"
   },
   "repository": {
