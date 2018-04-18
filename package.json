@@ -4,7 +4,7 @@
   "description": "A Simple TimeStamp API Microservice.",
   "main": "server.js",
   "scripts": {
-    "test": echo "Does This need any tests?",
+    "test": "node --version",
     "start": "node server.js 8420"
   },
   "repository": {
