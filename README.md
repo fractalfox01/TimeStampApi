@@ -12,7 +12,7 @@ A TimeStamp verification server built for FreeCodeCamp's Timestamp Microservice 
   * `$ npm install`
 #### 4. Start The Server:
  * `$ npm start`
- * Then open a browser window and navigate to localhost:8420
+ * Then open a browser window and navigate to localhost:3000
  * Click The link to send a test query.
 
 #### Built using Expressjs.
