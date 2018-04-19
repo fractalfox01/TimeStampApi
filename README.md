@@ -1,4 +1,5 @@
-# TimeStampApi
+# A TimeStamp MicroService
+==========================
 A TimeStamp verification server built for FreeCodeCamp's Timestamp Microservice challenge.
 
 ### Basic Use:
@@ -13,3 +14,6 @@ A TimeStamp verification server built for FreeCodeCamp's Timestamp Microservice 
  * `$ npm start`
  * Then open a browser window and navigate to localhost:8420
  * Click The link to send a test query.
+
+#### Built using Expressjs.
+#### View @ [This Glitch Page](https://fractalfox-timestamp.glitch.me/)
