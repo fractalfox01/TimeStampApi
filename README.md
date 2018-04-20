@@ -4,7 +4,7 @@ A TimeStamp verification server built for FreeCodeCamp's Timestamp Microservice 
 
 ### Basic Use:
 #### 1. clone from github:
-  `$ git clone https://github.com/fractalfox01/TimeStampApi`
+  `$ git clone https://github.com/fractalfox01/TimeStampApi.git`
 #### 2. install Npm and Nodejs:
  * Follow your system's guidelines for Installing Npm and Nodejs.
 #### 3. Initiate Project:
