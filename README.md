@@ -9,8 +9,10 @@ A TimeStamp verification server built for FreeCodeCamp's Timestamp Microservice 
  * Follow your system's guidelines for Installing Npm and Nodejs.
 #### 3. Initiate Project:
   * This should install the dependencies listed in package.json (if not already downloaded).
+  * `$ npm init`
+#### 4. Install node modules:
   * `$ npm install`
-#### 4. Start The Server:
+#### 5. Start The Server:
  * `$ npm start`
  * Then open a browser window and navigate to localhost:3000
  * Click The link to send a test query.
